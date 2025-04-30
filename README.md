@@ -1,5 +1,5 @@
 ## Travel Itinerary Backend
-
+##### http://localhost:8000 or 
 ### Run the app
 ```bash
 uvicorn app.main:app --reload
@@ -17,7 +17,7 @@ python -m app.seed
 
 
 ## Travel Itinerary Frontend
-
+##### http://localhost:3000 
 ### Run the app
 ```bash
 npm run dev
